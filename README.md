@@ -6,7 +6,7 @@ BT3101
 
 **06 Task Performance 1**
 
-**This Respiratory is a activity in application development.**
+**This repository is a activity in application development.**
 
 
 - ** Outer Banks **
